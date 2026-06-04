@@ -1,0 +1,7 @@
+~$*.xlsx
+~$*.xls
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+*.log
