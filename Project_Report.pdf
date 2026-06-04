@@ -1,0 +1,33 @@
+Executive Summary
+
+The objective of this project is to analyze Amazon sales performance and develop an interactive dashboard using Microsoft Excel.
+
+Data Cleaning
+Checked for missing values
+Standardized data formats
+Validated sales calculations
+Analysis Performed
+Product Analysis
+
+Identified top and bottom-performing products.
+
+Geographic Analysis
+
+Compared sales performance across cities and states.
+
+Trend Analysis
+
+Evaluated monthly revenue trends.
+
+Regional Analysis
+
+Compared sales across North, South, East, and West regions.
+
+RESULTS:
+Highest Revenue City: Delhi
+Highest Revenue State: Maharashtra
+Top Product: Smarties Pop-Up
+Recommendations
+Increase inventory for top-selling products.
+Focus marketing efforts in high-performing regions.
+Improve sales strategies in low-performing regions.
